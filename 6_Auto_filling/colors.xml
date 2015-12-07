@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<colors xml:lang="EN">
+	<color>
+	    <name>Aqua</name>
+	    <value>#00FFFF</value>
+    </color>
+    <color>
+	    <name>Azure</name>
+	    <value>#F0FFFF</value>
+    </color>
+    <color>
+	    <name>Black</name>
+	    <value>#000000</value>
+    </color>
+    <color>
+	    <name>Blue</name>
+	    <value>#0000FF</value>
+    </color>
+    <color>
+	    <name>Cyan</name>
+	    <value>#00FFF0</value>
+    </color>
+    <color>
+	    <name>White</name>
+	    <value>#FFFFFF</value>
+    </color>
+    <color>
+	    <name>Brown</name>
+	    <value>#A52A2A</value>
+    </color>
+    <color>
+	    <name>Crimson</name>
+	    <value>#DC143C</value>
+    </color>
+    
+</colors>
