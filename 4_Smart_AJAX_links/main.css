@@ -1,17 +1,21 @@
-li a{
+li a {
 	text-decoration: none;
 	font-weight: bold;
 }
-li a:hover{
+
+li a:hover {
 	text-decoration: underline;
 }
-li{
+
+li {
 	list-style-type: none;
 }
-h2, ul{
+
+h2, ul {
 	font-size: Georgia, "Times New Roman", Times, serif;
 }
-#preview{
+
+#preview {
 	background-color: #FF9;
 	width: 150px;
 	height: 200px;
@@ -23,6 +27,6 @@ h2, ul{
 	overflow: hidden;
 }
 
-#preview h1, #preview h2{
+#preview h1, #preview h2 {
 	font-size: 1.0em;	
 }

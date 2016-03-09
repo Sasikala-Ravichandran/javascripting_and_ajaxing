@@ -1,36 +1,43 @@
 <?xml version="1.0"?>
 <choices xml:lang="EN">
-<item>
-	<label>Texas</label>
-	<value>Tx </value>
-</item>
+  <item>
+    <label>Texas</label>
+    <value>Tx </value>
+  </item>
 
-<item>
-	<label>New Jersey</label>
-	<value>NJ </value>
-</item>
-<item>
-	<label>New York </label>
-	<value>NY</value>
-</item>
-<item>
-	<label>Mass</label>
-	<value>MA</value>
-</item>
-<item>
-	<label>Connecticut</label>
-	<value>CT</value>
-</item>
-<item>
-	<label>Florida</label>
-	<value>FL</value>
-</item>
-<item>
-	<label>North Dakto</label>
-	<value>ND</value>
-</item>
-<item>
-	<label>California</label>
-	<value>CA</value>
-</item>
+  <item>
+    <label>New Jersey</label>
+    <value>NJ </value>
+  </item>
+
+  <item>
+    <label>New York </label>
+    <value>NY</value>
+  </item>
+
+  <item>
+    <label>Mass</label>
+    <value>MA</value>
+  </item>
+
+  <item>
+    <label>Connecticut</label>
+    <value>CT</value>
+  </item>
+
+  <item>
+    <label>Florida</label>
+    <value>FL</value>
+  </item>
+
+  <item>
+    <label>North Dakto</label>
+    <value>ND</value>
+  </item>
+
+  <item>
+    <label>California</label>
+    <value>CA</value>
+  </item>
+
 </choices> 

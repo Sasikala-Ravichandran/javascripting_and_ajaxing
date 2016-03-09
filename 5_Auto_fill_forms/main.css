@@ -1,23 +1,21 @@
-body, #searchField{
-	font: 1.2em arial, helvetica, sans-serif;
-
+body, #searchField {
+  font: 1.2em arial, helvetica, sans-serif;
 }
 
-#popups{
-	position: absolute;
-
+#popups {
+  position: absolute;
 }
 
-#searchField.error{
-	background-color: #FC0;
+#searchField.error {
+  background-color: #FC0;
 }
 
 div.suggestions{
-	background-color: #fff;
-	padding: 2px 6px;
-	border: 1px solid black;
+  background-color: #fff;
+  padding: 2px 6px;
+  border: 1px solid black;
 }
 
 div.suggestions:hover{
-	background-color: #69f;
+  background-color: #69f;
 }
