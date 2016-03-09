@@ -1,32 +1,32 @@
 li a {
-	text-decoration: none;
-	font-weight: bold;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 li a:hover {
-	text-decoration: underline;
+  text-decoration: underline;
 }
 
 li {
-	list-style-type: none;
+  list-style-type: none;
 }
 
 h2, ul {
-	font-size: Georgia, "Times New Roman", Times, serif;
+  font-size: Georgia, "Times New Roman", Times, serif;
 }
 
 #preview {
-	background-color: #FF9;
-	width: 150px;
-	height: 200px;
-	font: .6em arial, helvetica, sans-serif;
-	padding: 5px;
-	position: absolute;
-	visibility: hidden;
-	border: 1px #CC0 solid;
-	overflow: hidden;
+  background-color: #FF9;
+  width: 150px;
+  height: 200px;
+  font: .6em arial, helvetica, sans-serif;
+  padding: 5px;
+  position: absolute;
+  visibility: hidden;
+  border: 1px #CC0 solid;
+  overflow: hidden;
 }
 
 #preview h1, #preview h2 {
-	font-size: 1.0em;	
+  font-size: 1.0em;	
 }
